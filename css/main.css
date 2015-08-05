@@ -433,6 +433,8 @@ ul.nostyle i {
 }
 #portfolio .portfolio-item .portfolio-item-inner {
     position: relative;
+    height: 170.25px;
+    width: 261.328px;
 }
 #portfolio .portfolio-item .portfolio-item-inner .portfolio-info {
     opacity: 0;
@@ -555,10 +557,10 @@ ul.nostyle i {
 #about {
     padding-bottom: 10px;
 }
-.about-text{
+.about-text {
     color: black;
 }
-.about-pic{
+.about-pic {
     padding-bottom: 10px;
 }
 #work-process {
@@ -924,6 +926,11 @@ ul.nostyle i {
 }
 #contact .contact-form h3 {
     margin-top: 0;
+}
+.owl-carousel {
+    height: 300px;
+    padding-bottom: 50px;
+    padding-top: 2px;
 }
 
 /***********************
