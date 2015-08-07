@@ -436,8 +436,6 @@ ul.nostyle i {
 }
 #portfolio .portfolio-item .portfolio-item-inner {
     position: relative;
-    height: 170.25px;
-    width: 261.328px;
 }
 #portfolio .portfolio-item .portfolio-item-inner .portfolio-info {
     opacity: 0;
@@ -475,6 +473,10 @@ ul.nostyle i {
 }
 #portfolio .portfolio-item:hover .portfolio-info {
     opacity: 1;
+}
+.viewMoreBtn{
+    margin-top: 50px;
+    margin-bottom: 0px;
 }
 
 /* Start: Recommended Isotope styles */
@@ -558,7 +560,8 @@ ul.nostyle i {
     margin-top: 10px;
 }
 #about {
-    padding-bottom: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .about-text {
     color: black;
@@ -802,7 +805,7 @@ ul.nostyle i {
     color: #fff;
 }
 #get-in-touch {
-    padding: 50px 0 50px;
+    padding: 100px 0 50px;
     background-color: #fff;
     color: black;
 }
